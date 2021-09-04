@@ -2,11 +2,12 @@ const fs = require("fs");
 const width = 1000;
 const height = 1000;
 const dir = __dirname;
-const description = "This is an NFT made by the coolest generative code.";
-const baseImageUri = "https://hashlips/nft";
+const description = "This is an NFT made by the tastiest generative code.";
+const baseImageUri = "https://nftsandwiches.com/sandwiches";
 const startEditionFrom = 1;
-const endEditionAt = 10;
-const editionSize = 10;
+const endEditionAt = 400;
+const editionSize = 400;
+
 const raceWeights = [
   {
     value: "skull",
